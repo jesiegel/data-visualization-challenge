@@ -9,4 +9,4 @@ In this challenge, I was given two datasets, mouse_metadata and Study_results. T
 - Calculate correlation and regression.
 - Submit your final analysis.
 
-  Through this process, I wanted to examine which drug is most effective in treating squamous cell carcinoma (SCC). 
+Through this process, I wanted to examine which drug is most effective in treating squamous cell carcinoma (SCC). 
